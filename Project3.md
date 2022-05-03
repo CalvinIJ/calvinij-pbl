@@ -27,4 +27,5 @@ Change directory back Todo folder with cd .. and install Mongoose, create a new 
 cd models, inside the models folder, create a file and name it todo.js, touch todo.js
 ![image](https://user-images.githubusercontent.com/103155174/166508036-6bc93856-ad3f-48bd-b8e8-59f387fc5c01.png)
 # MONGODB DATABASE
+![image](https://user-images.githubusercontent.com/103155174/166519371-b1f592ef-b50c-46eb-a833-5742c7c4bc66.png)
 
