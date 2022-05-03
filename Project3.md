@@ -8,5 +8,10 @@ Install Node.js with the command sudo apt-get install -y nodejs
 ![image](https://user-images.githubusercontent.com/103155174/166395194-c676df60-e72e-4349-ada7-0b4354640138.png)
 Verify the node installation with the command node -v, and verify the npm installation with the command npm -v
 ![image](https://user-images.githubusercontent.com/103155174/166395331-c271b0d4-63a2-49cf-985c-b446e3abd905.png)
+create a new directory for my to-do project
+![image](https://user-images.githubusercontent.com/103155174/166395811-94fec75e-f0cb-4b16-80ff-5535fdac3fe6.png)
+![image](https://user-images.githubusercontent.com/103155174/166396147-3310d017-3654-4c6c-8ff9-6ef047da68b6.png)
+# INSTALL EXPRESSJS
+install it using npm, npm install express
 
 
