@@ -12,6 +12,19 @@ create a new directory for my to-do project
 ![image](https://user-images.githubusercontent.com/103155174/166395811-94fec75e-f0cb-4b16-80ff-5535fdac3fe6.png)
 ![image](https://user-images.githubusercontent.com/103155174/166396147-3310d017-3654-4c6c-8ff9-6ef047da68b6.png)
 # INSTALL EXPRESSJS
-install it using npm, npm install express
-
+I installed express JS using npm, npm install express
+then i created a file index.js using the command touch index.js, after i ran the ls command to comfirm that it was running.
+i installed the dotenv module npm install dotenv,
+i opened the index.js with the command vim index.js
+i saved and exit.
+![image](https://user-images.githubusercontent.com/103155174/166487069-7e1d42aa-f3c9-4f90-bbc9-9cb7cf25b8d0.png)
+![image](https://user-images.githubusercontent.com/103155174/166489264-240df135-518f-45f8-a856-1b6ca3c42c56.png)
+i need to create routes that will define various endpoints that the TO-DO app will depend on
+command mkdir routes, cd routes, creat a file api.js withe the command touch api.js
+i opened the file with the command vim api.js
+# MODELS
+Change directory back Todo folder with cd .. and install Mongoose, create a new folder models.. mkdir mdels, change directory into the newly created model
+cd models, inside the models folder, create a file and name it todo.js, touch todo.js
+![image](https://user-images.githubusercontent.com/103155174/166508036-6bc93856-ad3f-48bd-b8e8-59f387fc5c01.png)
+# MONGODB DATABASE
 
