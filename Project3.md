@@ -28,4 +28,6 @@ cd models, inside the models folder, create a file and name it todo.js, touch to
 ![image](https://user-images.githubusercontent.com/103155174/166508036-6bc93856-ad3f-48bd-b8e8-59f387fc5c01.png)
 # MONGODB DATABASE
 ![image](https://user-images.githubusercontent.com/103155174/166519371-b1f592ef-b50c-46eb-a833-5742c7c4bc66.png)
-
+![image](https://user-images.githubusercontent.com/103155174/166747833-c22f889f-6559-45dc-adea-bcac69b328bc.png)
+Simply delete existing content in the file, and update.
+![image](https://user-images.githubusercontent.com/103155174/166748680-ed585003-b035-4ecf-90c0-2438918b6536.png)
