@@ -31,3 +31,5 @@ cd models, inside the models folder, create a file and name it todo.js, touch to
 ![image](https://user-images.githubusercontent.com/103155174/166747833-c22f889f-6559-45dc-adea-bcac69b328bc.png)
 Simply delete existing content in the file, and update.
 ![image](https://user-images.githubusercontent.com/103155174/166748680-ed585003-b035-4ecf-90c0-2438918b6536.png)
+![image](https://user-images.githubusercontent.com/103155174/167954618-9d329288-d821-4301-a72b-c1bab9d1f789.png)
+
