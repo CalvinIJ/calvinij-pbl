@@ -34,4 +34,6 @@ Simply delete existing content in the file, and update.
 ![image](https://user-images.githubusercontent.com/103155174/167954618-9d329288-d821-4301-a72b-c1bab9d1f789.png)
 ![image](https://user-images.githubusercontent.com/103155174/168426724-a2176de9-5a70-4e4f-ad56-fec86ec49789.png)
 ![image](https://user-images.githubusercontent.com/103155174/168435168-a82aa99d-fa02-4867-a648-142e28b08976.png)
-
+intall axios
+![image](https://user-images.githubusercontent.com/103155174/168435777-887eec20-c3d4-44cd-850d-c99627903394.png)
+![image](https://user-images.githubusercontent.com/103155174/168438990-87cdce43-1e90-4497-9f8b-95698817c91d.png)
