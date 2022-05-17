@@ -16,3 +16,4 @@ install NPM
 ## INSTALL EXPRESS AND SET UP ROUTES TO THE SERVER
 ![image](https://user-images.githubusercontent.com/103155174/168712961-4fd34d95-0f3d-4928-b5c4-7ba796aa5cd0.png)
 ## Step 4 – Access the routes with AngularJS
+![image](https://user-images.githubusercontent.com/103155174/168804358-ddeada26-a35e-42b2-b835-09d0b85216c2.png)
